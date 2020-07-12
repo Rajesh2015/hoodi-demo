@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache.hudi:hudi-timeline-service:0.5.2-incubating:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.hudi/hudi-timeline-service/jars/hudi-timeline-service-0.5.2-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.hudi/hudi-timeline-service/srcs/hudi-timeline-service-0.5.2-incubating-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

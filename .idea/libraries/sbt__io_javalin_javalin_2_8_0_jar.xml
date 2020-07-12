@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: io.javalin:javalin:2.8.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.javalin/javalin/jars/javalin-2.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.javalin/javalin/srcs/javalin-2.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
